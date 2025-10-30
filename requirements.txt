@@ -1,0 +1,24 @@
+# Dashboard Core
+streamlit>=1.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+plotly>=5.18.0
+altair>=5.0.0
+
+# Media Processing
+Pillow>=10.0.0
+
+# Video Player
+streamlit-player>=0.1.5
+
+# UI Components
+streamlit-aggrid>=0.3.4
+streamlit-option-menu>=0.3.6
+
+# Date/Time
+python-dateutil>=2.8.2
+
+# Data Generation (for mocks)
+faker>=22.0.0
